@@ -11,6 +11,8 @@ p{
 
 
 
+
+
 #titolo2{
     text-align: center;
     color:rgb(98, 4, 136);
@@ -23,12 +25,52 @@ p{
 
 #font-div {
     background-color: gold;
-    width: 100%;
+    width: 800px;
     border: 10px solid goldenrod
 }
 
 #font-div2 {
     background-color: rgb(255, 102, 0);
-    width: 100%;
+    width: 800px;
     border: 10px solid rgb(218, 122, 32)
+}
+
+#div3{
+    background:brown;
+    width:800px;
+}
+
+#div4{
+    background:lightblue;
+    width:800px;
+}
+
+#div5{
+    background:lightcoral;
+    width:800px;
+}
+
+#div6{
+    background:crimson;
+    width:800px;
+}
+
+#div7{
+    background:sandybrown;
+    width:800px;
+}
+
+#div8{
+    background:seagreen;
+    width:800px;
+}
+
+#div9{
+    background:royalblue;
+    width:800px;
+}
+
+#div10{
+    background:darkturquoise;
+    width:800px;
 }
